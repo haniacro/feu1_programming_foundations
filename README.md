@@ -1,3 +1,4 @@
+
 # FEU1 Programming Foundations
 
 Learning how to program.
@@ -25,3 +26,5 @@ Best way to play split your screen in two, have the browser console open on the 
 Also in the `index.html` page only include `your` javascript file
 
 ![space](./1_space_odyssey/img/howto.png)
+photo credit: https://www.warnerbros.com/movies/2001-space-odyssey/
+
