@@ -2,7 +2,6 @@
 .DS_Store
 .vscode
 .idea
-1_space_odyssey/index.html
 
 # Logs
 logs
@@ -108,3 +107,4 @@ dist
 
 # TernJS port file
 .tern-port
+1_space_odyssey/index.html
